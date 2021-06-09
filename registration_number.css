@@ -1,0 +1,13 @@
+.reg{
+  background-color:cornflowerblue; 
+  width: 30%; 
+  padding-bottom: 5%;
+  margin-left: 35%;
+  margin-top: 10%;
+  border: 5px black solid;
+  
+  
+}
+body{
+    background-color: blanchedalmond;
+}
